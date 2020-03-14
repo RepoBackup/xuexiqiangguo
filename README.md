@@ -21,4 +21,3 @@
 如果您对电脑没安装IE11，程序支持下载安装
 
 也可进入下面地址，手动下载安装IE11
-https://support.microsoft.com/zh-cn/help/18520/download-internet-explorer-11-offline-installer
