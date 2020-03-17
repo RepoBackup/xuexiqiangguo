@@ -1,5 +1,7 @@
 # xuexiqiangguo
 # 学习强国，自动学习，Windows版
+# 不用安装、配置复杂的运行环境！
+# 绿色软件，无需安装，解压后直接运行！
 
 *支持扫码登录，钉钉授权登录，
 
@@ -9,25 +11,11 @@
 
 *配合手机答题，可获得更高分，
 
-*仅限个人研究!!!禁止非法用途!!!
+#仅限个人研究!!!禁止非法用途!!!
 
-
-×××××××××××××××××××××××× v1.0
-
-学习强国v1.0.7z
-
+# v1.0 运行环境
 操作系统：win7，win8，win10
+浏览器：Internet Explorer 11
 
-系统自带浏览器：Internet Explorer 11
-
-如电脑没安装IE11，程序支持下载安装
-
-也可进入下面地址，手动下载安装IE11
-
-https://support.microsoft.com/zh-cn/help/18520/download-internet-explorer-11-offline-installer
-
-×××××××××××××××××××××××× v1.0_XP版
-	
-学习强国v1.0_XP版.7z
-
-仅用于Win XP
+# v1.0_XP版 运行环境
+操作系统： Win XP
