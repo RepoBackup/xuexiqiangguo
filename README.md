@@ -2,7 +2,7 @@
 # 不用安装、配置复杂的运行环境！
 # 绿色软件，无需安装，解压后直接运行！
 
-![Image text](https://raw.githubusercontent.com/youlequ/xuexiqiangguo/master/docs/ui.gif)
+![Image text](http://aiyotu.xyz/docs/ui.gif)
 
 *支持扫码登录，钉钉授权登录，
 
