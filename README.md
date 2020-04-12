@@ -11,3 +11,10 @@
 适用于Windows XP 系统
 
 ![运行界面](http://aiyotu.xyz/docs/ui.gif)
+
+## 提示
+每天的分数不要固定
+不要在同一路由器（IP）内，频繁切换多账号（5个以上）
+不要在手机双开、开启无障碍
+不要使用Python+Selenium+Chrome
+以上可能触动某些规则导致...
