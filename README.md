@@ -4,10 +4,10 @@
 
 支持扫码登录，钉钉授权登录；后台静默学习，每天轻松25分；配合手机答题可获更高分；每天帮您节省30分钟时间！
 
-## v1.0  [立即下载](http://aiyotu.xyz/智慧学习v1.0.zip)
+## v1.0  [立即下载](https://cdn.jsdelivr.net/gh/aiyotu/zhihui/智慧学习v1.0.zip)
 适用于win7，win8，win10 系统
 
-## v1.0_XP  [立即下载](http://aiyotu.xyz/智慧学习v1.0_XP版.zip)
+## v1.0_XP  [立即下载](https://cdn.jsdelivr.net/gh/aiyotu/zhihui/智慧学习v1.0_XP版.zip)
 适用于Windows XP 系统
 
 ![运行界面](http://aiyotu.xyz/docs/ui.gif)
